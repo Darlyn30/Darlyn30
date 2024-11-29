@@ -28,11 +28,11 @@
 public class AboutMe {
 
      string Nombre = "Darlyn";
-     Lis<Hobbies> hobbies = {
+     List<Hobbies> hobbies = {
          "Me encantan la programacion y lo que es el aprendizaje continuo",
          "Hacer Deporte"
   }
-    List<Skill> Skills = {
+     List<Skill> Skills = {
         "POO",
         "Design Patters",
         ProgrammingLanguages : {
