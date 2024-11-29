@@ -53,3 +53,5 @@ public class AboutMe {
 * DevOps
 
 - 🌱 I’m currently learning [React-native, TypeScript]
+
+![Darlyn30 github stats](https://github-readme-stats.vercel.app/api?username=Darlyn30&show_icons=true&hide=[%22issues%22])
