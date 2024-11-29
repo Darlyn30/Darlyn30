@@ -49,6 +49,7 @@ public class AboutMe {
 
 ## :computer: Technologies I Love
 * C# .NET
+* JAVA
 * BackEnd
 * DevOps
 
